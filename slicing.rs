@@ -22,6 +22,15 @@ fn main() {
     let a = first_word(&dummy_two);
     println!("{}", a);
 
+
+    //slicing array
+
+    // let array = [1,2,3,4,5];     ----------         -------
+
+    // let result = &array[1..3];   ----------   doubt ------
+
+    // println!("{}", result);      ----------          -------
+
 }
 
 //program to find first word
