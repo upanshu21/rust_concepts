@@ -1,6 +1,7 @@
-#Rust Examples
 
-##To Compile:
+# Rust Examples
+
+## To Compile
 
 ```
 cd rust_concepts
@@ -8,7 +9,7 @@ cd rust_concepts
 ```
 rustc **file_name.rs**
 ```
-##To Run
+## To Run
 
 ```
 ./file_name
