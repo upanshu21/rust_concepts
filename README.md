@@ -7,7 +7,7 @@
 cd rust_concepts
 ```
 ```
-rustc **file_name.rs**
+rustc file_name.rs
 ```
 ## To Run
 
